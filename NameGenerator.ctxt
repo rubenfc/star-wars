@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NameGenerator()
+comment1.params=nombre\ apellido\ apellidoMadre\ ciudadNacimiento
+comment1.target=void\ generateStarWarsName(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=2
